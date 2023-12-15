@@ -2,6 +2,12 @@
     #navbar-collapse{
         right: -15px;
     }
+    .nav-item{
+        margin: 1.6rem 10px
+    }
+    #theme-toggle-btn{
+        right: -10px;
+    }
 }
 
 @media screen and (max-width: 320px){
