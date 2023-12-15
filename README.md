@@ -7,8 +7,10 @@ https://karimashour.github.io/Travel-Website/
 - html
 - css
 - javascript
+- font awesome icons
 # features :
 - fully responsive design
 - multi pages
 - 5 pages
 - home & gellery & blog & about & contact
+- dark mode
